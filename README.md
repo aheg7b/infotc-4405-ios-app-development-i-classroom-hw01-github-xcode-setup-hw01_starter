@@ -6,5 +6,5 @@ After reading the instructions, update the information below as directed.
 
 Name: Aidan Engbert
 Course: INFOTC 4405 / CMP_SC 4405
-Section:
-Semester:
+Section: In Person
+Semester: Spring 26
